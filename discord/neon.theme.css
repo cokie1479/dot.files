@@ -1,0 +1,54 @@
+/**
+ * @name neon
+ * @version 8.0
+ * @description A simple but highly customizable theme, now sugar free!
+ * @author Spectra
+ * @invite PZdnCVD
+ * @source https://github.com/xcruxiex/themes
+ * @website https://betterdiscord.app/theme/Neutron
+ * @BDEditor Neutron
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Varela+Round:wght@100;300;400;500;700&display=swap');
+@import url('https://xcruxiex.github.io/themes/themes-cores/neutron8.css');
+@import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
+@import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
+@import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
+@import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
+@import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
+@import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
+@import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
+
+:root {
+  --backgroundImage: url('https://smoggyshygnudebugger.armsit.repl.co/1.gif');
+  --backgroundColor: #381A94;
+  --backgroundSize: cover;
+  --backgroundPosition: center;
+  --backgroundRepeat: no-repeat;
+  --backgroundBlur: 100px;
+  --backgroundOpacity: 0.75;
+  --homeImage: url('https://github.com/cokie1479/theme/blob/main/icon.png?raw=true');
+  --homeImageSize: 85%;
+  --themeColor1: #FF86E4;
+  --themeColor2: #C6A0F6;
+  --customFont: Varela Round;
+  --backgroundCode: rgb(33,22,61,1);
+  --backgroundName: rgb(15,37,91,1);
+  --rs-small-spacing: 1px;
+  --rs-medium-spacing: 3px;
+  --rs-large-spacing: 2px;
+  --rs-small-width: 2px;
+  --rs-medium-width: 4px;
+  --rs-large-width: 3px;
+  --rs-avatar-shape: 50%;
+  --rs-online-color: #34C973;
+  --rs-idle-color: #F0B232;
+  --rs-dnd-color: #F23F43;
+  --rs-offline-color: #80848E;
+  --rs-streaming-color: #9C84EF;
+  --rs-phone-visible: block;
+}
+
+/* Any custom CSS below here */
+
+
