@@ -20,14 +20,14 @@
 @import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
 
 :root {
-  --backgroundImage: url('https://smoggyshygnudebugger.armsit.repl.co/1.gif');
+  --backgroundImage: url('https://github.com/cokie1479/dot.files/blob/main/discord/1.gif?raw=true');
   --backgroundColor: #381A94;
   --backgroundSize: cover;
   --backgroundPosition: center;
   --backgroundRepeat: no-repeat;
   --backgroundBlur: 100px;
   --backgroundOpacity: 0.75;
-  --homeImage: url('https://github.com/cokie1479/theme/blob/main/icon.png?raw=true');
+  --homeImage: url('https://github.com/cokie1479/dot.files/blob/main/discord/icon.png?raw=true');
   --homeImageSize: 85%;
   --themeColor1: #FF86E4;
   --themeColor2: #C6A0F6;
