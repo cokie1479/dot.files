@@ -21,3 +21,11 @@ i3 WM
 + https://github.com/stoeckmann/xwallpaper
 + https://github.com/altdesktop/playerctl
 + https://wiki.archlinux.org/title/feh
+
+
+##other
+
+fish
+kitty
+picom
+rofi
