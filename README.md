@@ -1,6 +1,6 @@
 # dot.files
 
-my custom dot files for my i3 setup
+### my custom dot files for my i3 setup
 
 discord with vencord
 spotify with spicetify
@@ -10,7 +10,7 @@ i3 WM
 
 
 
-##polly bar prerequisits
+## polly bar prerequisits
 
 + https://archlinux.org/packages/extra/x86_64/mpd/
 + https://github.com/P3rf/rofi-network-manager
