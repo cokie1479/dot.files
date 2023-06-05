@@ -25,7 +25,8 @@ i3 WM
 
 ##other
 
-fish
-kitty
-picom
-rofi
+fish https://github.com/fish-shell/fish-shell
+kitty https://github.com/kovidgoyal/kitty
+picom https://github.com/yshui/picom
+rofi https://github.com/davatorium/rofi
+nitch https://github.com/ssleert/nitch
